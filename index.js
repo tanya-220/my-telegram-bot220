@@ -1,6 +1,17 @@
 import { Telegraf } from 'telegraf';
 import { GoogleGenerativeAI } from '@google/generative-ai';
+import http from 'http';
 
+// Создаем простой сервер, чтобы Render видел открытый порт
+const server = http.createServer((req, res) => {
+  res.writeHead(200);
+  res.end('Bot is running');
+});
+
+const PORT = process.env.PORT || 10000;
+server.listen(PORT, '0.0.0.0', () => {
+  console.log(Port ${PORT} is open);
+});
 // Берем ключи из переменных окружения Render
 const bot = new Telegraf(process.env.TELEGRAM_TOKEN);
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
