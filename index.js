@@ -16,7 +16,7 @@ server.listen(PORT, '0.0.0.0', () => {
 // Подключаем ключи из Render
 const bot = new Telegraf(process.env.TELEGRAM_TOKEN);
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
-const model = genAI.getGenerativeModel({ model: "gemini-3.5-lite" });
+const model = genAI.getGenerativeModel({ model: "gemini-2.5-lite" });
 
 bot.on('text', async (ctx) => {
   try {
