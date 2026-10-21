@@ -1,5 +1,5 @@
 import { Telegraf } from 'telegraf';
-import { GoogleGenerativeAI } from '@google/generative-ai';
+import { GoogleGenAI } from '@google/genai';
 import http from 'http';
 
 // Создаем сервер-заглушку, чтобы Render видел порт
@@ -15,18 +15,19 @@ server.listen(PORT, '0.0.0.0', () => {
 
 // Подключаем ключи из Render
 const bot = new Telegraf(process.env.TELEGRAM_TOKEN);
-const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
-const model = genAI.getGenerativeModel({ model: "gemini-2.5-lite" });
-
+const ai = new GoogleGenAI({apiKey: process.env.GEMINI_API_KEY});
 bot.on('text', async (ctx) => {
   try {
     await ctx.sendChatAction('typing');
     
-    const result = await model.generateContent(ctx.message.text);
-    const response = await result.response;
-    const text = response.text();
+    // Новый синтаксис вызова Gemini
+    const response = await ai.models.generateContent({
+      model: "gemini-3.5-flash", // Если будет ошибка, поменяем на "gemini-flash-latest"
+      contents: ctx.message.text,
+    });
 
-    await ctx.reply(text);
+    // Отправляем ответ пользователю
+    await ctx.reply(response.text);
   } catch (error) {
     console.error('Ошибка:', error);
     await ctx.reply('Упс, произошла ошибка при обработке вашего сообщения.');
