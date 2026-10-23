@@ -1,6 +1,106 @@
 {
+  "администрация города": {
+    "address": "ул. Ленина, д. 85А",
+    "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
+  },
+  "автостанция": {
+    "address": "ул. Гвардейская, д. 34",
+    "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
+  },
+  "ФГКУ": {
+    "address": "ул. Восточное шоссе, д. 33",
+    "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
+  },
+  "отдел МВД": {
+    "address": "ул. Партизанская, д. 10",
+    "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
+  },
+  "больница": {
+    "address": "ул. Гвардейская, д. 1",
+    "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
+  },
+  "коммунхоз": {
+    "address": "ул. Коммунальная, д. 10",
+    "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
+  },
+  "крымэнерго": {
+    "address": "ул. Андрея Князева, д. 4",
+    "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
+  },
+  "крымгазсети": {
+    "address": "ул. Коммунальная, д. 5",
+    "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
+  },
+  "клумба": {
+    "address": "ул. Ленина, д. 60",
+    "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
+  },
+  "саада": {
+    "address": "ул. Коммунальня, д. 9А",
+    "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
+  },
+  "роза": {
+    "address": "ул. Набережная, д. 29",
+    "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
+  },
   "гостиница парус": {
     "address": "ул. Набережная, д. 29",
     "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
-  }
+  },
+  "гостиница парус": {
+    "address": "ул. Набережная, д. 29",
+    "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
+  },
+  "гостиница парус": {
+    "address": "ул. Набережная, д. 29",
+    "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
+  },
+  "гостиница парус": {
+    "address": "ул. Набережная, д. 29",
+    "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
+  },
+  "гостиница парус": {
+    "address": "ул. Набережная, д. 29",
+    "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
+  },
+  "гостиница парус": {
+    "address": "ул. Набережная, д. 29",
+    "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
+  },
+  "гостиница парус": {
+    "address": "ул. Набережная, д. 29",
+    "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
+  },
+  "гостиница парус": {
+    "address": "ул. Набережная, д. 29",
+    "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
+  },
+  "гостиница парус": {
+    "address": "ул. Набережная, д. 29",
+    "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
+  },
+  "гостиница парус": {
+    "address": "ул. Набережная, д. 29",
+    "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
+  },
+  "гостиница парус": {
+    "address": "ул. Набережная, д. 29",
+    "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
+  },
+  "гостиница парус": {
+    "address": "ул. Набережная, д. 29",
+    "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
+  },
+  "гостиница парус": {
+    "address": "ул. Набережная, д. 29",
+    "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
+  },
+  "гостиница парус": {
+    "address": "ул. Набережная, д. 29",
+    "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
+  },
+  "гостиница парус": {
+    "address": "ул. Набережная, д. 29",
+    "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
+  },
 }
