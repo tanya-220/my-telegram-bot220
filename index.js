@@ -34,14 +34,16 @@ bot.on('text', async (ctx) => {
 
     for (const key in guideData) {
         const cleanKey = key.toLowerCase().replace(/(гостиниц|отел|магазин|аптек|кафе|супермаркет)\w*/g, '').trim();
-        if (userText.includes(cleanKey)) {
-            foundInGuide = true;
+        const keyVariants = cleanKey.split('|');
+      const isMatch = keyVariants.some(variant => userText.includes(variant.trim()));
+      if (isMatch) {
+        foundInGuide = true;
             
             if (guideData[key].image_url) {
                 await ctx.replyWithPhoto(guideData[key].image_url);
             }
             
-            await ctx.reply("📍 " + key + "\n\nАдрес: " + guideData[key].address);
+            await ctx.reply("📍 " + key.split('|')[0] + "\n\nАдрес: " + guideData[key].address);
             break; 
         }
     }
