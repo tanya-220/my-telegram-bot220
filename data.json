@@ -55,11 +55,7 @@
     "address": "ул. Ленина, д. 38",
     "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
   },
-  "гузель": {
-    "address": "ул. Ленина, д. 54",
-    "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
-  },
-  "guzel": {
+  "гузель|guzel": {
     "address": "ул. Ленина, д. 54",
     "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
   },
@@ -79,24 +75,24 @@
     "address": "ул. Ленина, д. 19",
     "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
   },
-  "Рояль": {
+  "Рояль|Royal": {
     "address": "ул. Набережная, д. 29",
     "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
   },
-  "гостиница парус": {
-    "address": "ул. Набережная, д. 29",
+  "магазинчик": {
+    "address": "ул. Цветочная, д. 19",
     "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
   },
-  "гостиница парус": {
-    "address": "ул. Набережная, д. 29",
+  "продторг|продторгъ": {
+    "address": "ул. Алуштинская, д. 24",
     "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
   },
-  "гостиница парус": {
-    "address": "ул. Набережная, д. 29",
+  "Мясово": {
+    "address": "ул. Гагарина, д. 6",
     "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
   },
-  "гостиница парус": {
-    "address": "ул. Набережная, д. 29",
+  "Алкотека": {
+    "address": "ул. Гагарина, д. 6",
     "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
   },
   "гостиница парус": {
