@@ -33,7 +33,7 @@ bot.on('text', async (ctx) => {
     let foundInGuide = false;
 
     for (const key in guideData) {
-        if (userText.includes(key.toLowerCase())) {
+        if (userText.includes(key.toLowerCase().replace('гостиница ', '').replace('отель ', '').replace('магазин ', ''))) {
             foundInGuide = true;
             
             if (guideData[key].image_url) {
