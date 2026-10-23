@@ -1,5 +1,5 @@
 {
-  "администрация города": {
+  "администрация": {
     "address": "ул. Ленина, д. 85А",
     "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
   },
@@ -11,7 +11,7 @@
     "address": "ул. Восточное шоссе, д. 33",
     "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
   },
-  "отдел МВД": {
+  "МВД": {
     "address": "ул. Партизанская, д. 10",
     "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
   },
@@ -40,46 +40,46 @@
     "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
   },
   "роза": {
-    "address": "ул. Набережная, д. 29",
+    "address": "ул. Ленина, д. 19В",
     "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
   },
-  "гостиница парус": {
-    "address": "ул. Набережная, д. 29",
+  "клевер": {
+    "address": "ул. Ленина, д. 77",
     "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
   },
-  "гостиница парус": {
-    "address": "ул. Набережная, д. 29",
+  "яблоко": {
+    "address": "ул. Ленина, д. 24",
     "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
   },
-  "гостиница парус": {
-    "address": "ул. Набережная, д. 29",
+  "ПУД": {
+    "address": "ул. Ленина, д. 38",
     "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
   },
-  "гостиница парус": {
-    "address": "ул. Набережная, д. 29",
+  "гузель": {
+    "address": "ул. Ленина, д. 54",
     "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
   },
-  "гостиница парус": {
-    "address": "ул. Набережная, д. 29",
+  "guzel": {
+    "address": "ул. Ленина, д. 54",
     "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
   },
-  "гостиница парус": {
-    "address": "ул. Набережная, д. 29",
+  "Велес": {
+    "address": "ул. Льва Голицына, д. 8Е",
     "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
   },
-  "гостиница парус": {
-    "address": "ул. Набережная, д. 29",
+  "доброцен": {
+    "address": "ул. Ленина, д. 9",
     "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
   },
-  "гостиница парус": {
-    "address": "ул. Набережная, д. 29",
+  "Овощной рынок": {
+    "address": "Кипарисовая аллея, д. 1",
     "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
   },
-  "гостиница парус": {
-    "address": "ул. Набережная, д. 29",
+  "Центральный рынок": {
+    "address": "ул. Ленина, д. 19",
     "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
   },
-  "гостиница парус": {
+  "Рояль": {
     "address": "ул. Набережная, д. 29",
     "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
   },
