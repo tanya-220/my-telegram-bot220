@@ -376,79 +376,79 @@
   },
   "аль фурун": {
     "address": "ул. Коммунальная, д. 20",
-    "image_url": ""
+    "image_url": "https://avatars.mds.yandex.net/i?id=a149b86750970c4869916b2f7f7c7280aaf3104f-10273175-images-thumbs&n=13"
   },
   "токио": {
     "address": "ул. Мамеди, 46",
-    "image_url": ""
+    "image_url": "https://avatars.mds.yandex.net/i?id=1fbe9cfabec4ec51defc006c9ad14c85ed56909fb112779e-4546195-images-thumbs&n=13"
   },
   "дом вкуса": {
     "address": "ул. Гвардейская, д. 40",
-    "image_url": ""
+    "image_url": "https://avatars.mds.yandex.net/i?id=ddd31a1842d1e54da6d27e4ecad6f1d0_sr-3007567-images-thumbs&n=13"
   },
   "музей истории крыма": {
     "address": "квартал Хале, 16",
-    "image_url": ""
+    "image_url": "https://avatars.mds.yandex.net/i?id=750fa10d18ef8498ac807ac5ef7e782a34bc0d35-4545543-images-thumbs&n=13"
   },
   "генуэзская крепость": {
     "address": "ул. Генуэзская, 1",
-    "image_url": ""
+    "image_url": "https://avatars.mds.yandex.net/i?id=c5885540e3c6a70d2af2c572c807637f365fb8bb-5859964-images-thumbs&n=13"
   },
   "музей истории судака": {
     "address": "ул. Набережная, д. 11",
-    "image_url": ""
+    "image_url": "https://avatars.mds.yandex.net/i?id=4d5a6fbdcf5ddb6d452422efc7ebadb27201936a-10114686-images-thumbs&n=13"
   },
   "покрова пресвятой богородицы": {
     "address": "ул. Ленина, 27",
-    "image_url": ""
+    "image_url": "https://avatars.mds.yandex.net/i?id=edc5ec9afc9717ef04ed6138a9b64d43d55eedcc-5132847-images-thumbs&n=13"
   },
   "дом-музей голицына": {
     "address": "ул. Шаляпина, 11, п. г. т. Новый Свет",
-    "image_url": ""
+    "image_url": "https://avatars.mds.yandex.net/i?id=caf9f642be05eab58e2836f3a341370bfc22be0c-7761267-images-thumbs&n=13"
   },
-  "двенадцати апостолов": {
+  "дом двенадцати апостолов": {
     "address": "ул. Приморская, д. 25",
-    "image_url": ""
+    "image_url": "https://avatars.mds.yandex.net/i?id=29045ecfdc7eac59eb2b77d0d0fdb5f13b573646-5161097-images-thumbs&n=13"
   },
-  "пророка илии": {
+  "церковь святого пророка илии": {
     "address": "ул. Черноморская, 14А",
-    "image_url": ""
+    "image_url": "https://avatars.mds.yandex.net/i?id=be1ecc0799e3ecb8b016b3753877f4a2cdb7a44d-5873744-images-thumbs&n=13"
   },
   "лютеранская кирха": {
     "address": "ул. Приморская, 13",
-    "image_url": "*ссылка*"
+    "image_url": ""
   },
   "топловский монастырь": {
     "address": "ул. Свято-Троицкая, 7",
-    "image_url": "*ссылка*"
+    "image_url": ""
   },
   "атан": {
     "address": "ул. Феодосийское Шоссе, 14; Восточное шоссе, 2",
-    "image_url": "*ссылка*"
+    "image_url": ""
   },
   "tes|тес": {
     "address": "Феодосийское Шоссе, 12А",
-    "image_url": "*ссылка*"
+    "image_url": ""
   },
   "мой сам": {
     "address": "Феодосийское Шоссе, 1",
-    "image_url": "*ссылка*"
+    "image_url": ""
   },
   "тропа голицына": {
     "address": "городской округ Судак, тропа Голицына",
-    "image_url": "*ссылка*"
+    "image_url": ""
   },
   "гурман": {
     "address": "Кипарисовая аллея, 6",
-    "image_url": "*ссылка*"
+    "image_url": ""
   },
   "меганом": {
     "address": "городской округ Судак, мыс Меганом",
-    "image_url": "*ссылка*"
+    "image_url": ""
   },
   "набережная судака": {
     "address": "город Судак, набережная Судака",
-    "image_url": "*ссылка*"
+    "image_url": ""
   },
   "царский пляж": {
     "address": "п. г. т. Новый Свет, Царский пляж",
@@ -535,7 +535,7 @@
     "image_url": "*ссылка*"
   },
   "wildberries|вайлдберриз": {
-    "address": "ул. Гагарина: 58, 3; ул. Ленина: 81, 40, 98; ул. Спендиарова, 60; ул. Коммунальная, 5; ул. Партизанская, 17Б; ул. Октябрьская, 34",
+    "address": "ул. Гагарина: 58, 3; ул. Спендиарова, 60; ул. Коммунальная, 5; ул. Партизанская, 17Б; ул. Октябрьская, 34",
     "image_url": "*ссылка*"
   },
   "ozon|озон": {
