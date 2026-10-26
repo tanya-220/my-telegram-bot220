@@ -165,55 +165,55 @@
   },
   "виста": {
     "address": "ул. Ленина, д. 57",
-    "image_url": ""
+    "image_url": "https://avatars.mds.yandex.net/get-altay/2057543/2a0000016c46f1a90dc21a0fbeb657557d62/orig"
   },
   "экономная": {
     "address": "ул. Гвардейская, д. 8",
-    "image_url": ""
+    "image_url": "https://avatars.mds.yandex.net/get-altay/4581272/2a0000017925f2d2582879d3dd5af25daa53/XXXL"
   },
   "апрель": {
     "address": "ул. Ленина, д. 88",
-    "image_url": ""
+    "image_url": "https://avatars.mds.yandex.net/get-altay/14317263/2a000001941d0945a08c285e034dc4b54242/orig"
   },
-  "здрав-сервис": {
+  "здравсервис": {
     "address": "ул. Ленина, д. 61",
-    "image_url": ""
+    "image_url": "https://avatars.mds.yandex.net/get-altay/7723428/2a00000184098822ad8199374119a9e6da6b/orig"
   },
   "м5": {
     "address": "ул. Ленина, д. 77",
-    "image_url": ""
+    "image_url": "https://avatars.mds.yandex.net/get-altay/9704097/2a000001886d0cf710c4e6200f458362402d/orig"
   },
   "социальная": {
     "address": "ул. Ленина, д. 41",
-    "image_url": ""
+    "image_url": "https://avatars.mds.yandex.net/get-altay/16368192/2a000001985032666b296c1f7ad226ed041a/orig"
   },
   "мастерок": {
     "address": "ул. Первомайская, д. 3",
-    "image_url": "*ссылка*"
+    "image_url": "https://static-pano.maps.yandex.ru/v1/?panoid=1282379813_775379461_23_1554191010&size=500%2C240&azimuth=187.9&tilt=3.091016&api_key=maps&signature=Wx30JniV5DVIZTcTkeErgPFk2hNza0d2YOwwgE5k0gQ="
   },
   "мастер": {
     "address": "ул. Ленина, д. 68",
-    "image_url": "*ссылка*"
+    "image_url": ""
   },
   "spretz|спрец": {
     "address": "Полярный тупик, д. 1",
-    "image_url": "*ссылка*"
+    "image_url": ""
   },
   "олимп": {
     "address": "Полярный тупик, 8, корп. 1",
-    "image_url": "*ссылка*"
+    "image_url": ""
   },
   "стройматериалы": {
     "address": "ул. Мамеди, д. 44",
-    "image_url": "*ссылка*"
+    "image_url": ""
   },
   "строй": {
     "address": "Александровский спуск, 1",
-    "image_url": "*ссылка*"
+    "image_url": ""
   },
   "dns|днс": {
     "address": "ул. Ленина, д. 24",
-    "image_url": "*ссылка*"
+    "image_url": ""
   },
   "цифроник": {
     "address": "ул. Ленина, д. 35",
