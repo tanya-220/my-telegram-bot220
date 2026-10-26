@@ -344,71 +344,75 @@
   },
   "бастион": {
     "address": "ул. Ушакова, д. 3",
-    "image_url": ""
+    "image_url": "https://avatars.mds.yandex.net/i?id=9c65941c763d6387a406d23a6f242e74_l-5295169-images-thumbs&n=13"
   },
   "империал": {
     "address": "ул. Пограничников, д. 1",
-    "image_url": ""
+    "image_url": "https://avatars.mds.yandex.net/get-altay/2378041/2a000001706430e72598b327f52a7de33493/orig"
   },
   "шафран": {
     "address": "ул. Ленина, д. 33А",
-    "image_url": ""
+    "image_url": "https://avatars.mds.yandex.net/i?id=dfdf087a033e80f73a893eeb0947358b_l-4012071-images-thumbs&n=13"
   },
-  "нореса": {
+   "Новое": {
+    "address": "ул. Ленина, д. 79Г",
+    "image_url": "https://avatars.mds.yandex.net/get-altay/1676973/2a000001689e5454989c1c92c79cf39ff235/orig"
+  },
+  "хорека|Ho.Re.Ca.": {
     "address": "ул. Адмиральская, д. 1",
-    "image_url": ""
+    "image_url": "https://avatars.mds.yandex.net/i?id=49a3630928edc3d4ec815a166f8a0208_l-5232252-images-thumbs&n=13"
   },
   "veranda oliva|веранда олива": {
     "address": "ул. Таврическая, д. 61",
-    "image_url": ""
+    "image_url": "https://avatars.mds.yandex.net/get-altay/986332/2a000001643333d3b9177fcba091370f2518/XXXL"
   },
   "крымский дворник": {
     "address": "Кипарисовая аллея, д. 15",
-    "image_url": ""
+    "image_url": "https://avatars.mds.yandex.net/i?id=f4f7e661bf770f258df416989069acb7_l-9098231-images-thumbs&n=13"
   },
   "провинция": {
     "address": "ул. Ленина, д. 88",
-    "image_url": ""
+    "image_url": "https://avatars.mds.yandex.net/get-altay/5236021/2a0000017b4958ce9745375cbdfea24e8c9e/XXXL"
   },
   "аль фурун": {
     "address": "ул. Коммунальная, д. 20",
-    "image_url": "*ссылка*"
+    "image_url": ""
   },
   "токио": {
     "address": "ул. Мамеди, 46",
-    "image_url": "*ссылка*"
+    "image_url": ""
   },
   "дом вкуса": {
     "address": "ул. Гвардейская, д. 40",
-    "image_url": "*ссылка*"
+    "image_url": ""
   },
   "музей истории крыма": {
     "address": "квартал Хале, 16",
-    "image_url": "*ссылка*"
+    "image_url": ""
   },
   "генуэзская крепость": {
     "address": "ул. Генуэзская, 1",
-    "image_url": "*ссылка*"
+    "image_url": ""
   },
   "музей истории судака": {
     "address": "ул. Набережная, д. 11",
-    "image_url": "*ссылка*"
+    "image_url": ""
   },
   "покрова пресвятой богородицы": {
     "address": "ул. Ленина, 27",
-    "image_url": "*ссылка*"
+    "image_url": ""
   },
   "дом-музей голицына": {
     "address": "ул. Шаляпина, 11, п. г. т. Новый Свет",
-    "image_url": "*ссылка*"
+    "image_url": ""
   },
   "двенадцати апостолов": {
     "address": "ул. Приморская, д. 25",
-    "image_url": "*ссылка*"
+    "image_url": ""
   },
   "пророка илии": {
     "address": "ул. Черноморская, 14А",
-    "image_url": "*ссылка*"
+    "image_url": ""
   },
   "лютеранская кирха": {
     "address": "ул. Приморская, 13",
