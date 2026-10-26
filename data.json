@@ -1,23 +1,23 @@
 {
   "администрация": {
     "address": "ул. Ленина, д. 85А",
-    "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
+    "image_url": "https://vesti-k.ru/i/64/647f75508c429917ec0bb365ae748a16.jpg"
   },
   "автостанция": {
     "address": "ул. Гвардейская, д. 34",
-    "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
+    "image_url": "https://krymtrek.ru/wp-content/uploads/2016/12/Screenshot_175.png"
   },
   "ФГКУ": {
     "address": "ул. Восточное шоссе, д. 33",
-    "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
+    "image_url": "https://static-pano.maps.yandex.ru/v1/?panoid=1282486187_775436281_23_1554106683&size=500%2C240&azimuth=80.2&tilt=10&api_key=maps&signature=i6xTpl5FcfcFeqeJI9t5dm8n8sNVhaTOkRUClmy2OvU="
   },
   "МВД": {
     "address": "ул. Партизанская, д. 10",
-    "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
+    "image_url": "https://pravoilevo.ru/wp-content/uploads/2021/06/Sudak_zdanie_2.jpg"
   },
-  "больница": {
+  "больница|поликлиника": {
     "address": "ул. Гвардейская, д. 1",
-    "image_url": "https://avatars.mds.yandex.net/get-altay/6236523/2a0000018088c473989289a177b6d9806136/orig"
+    "image_url": "https://avatars.mds.yandex.net/get-altay/1491998/2a00000168ffaee91bdb48d8c696248853de/orig"
   },
   "коммунхоз": {
     "address": "ул. Коммунальная, д. 10",
